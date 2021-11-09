@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **[---](https://---.com)**
 
-- 🌱 I’m currently learning **Application Testings**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://--.com)**
+- 👨‍💻 All of my projects are available at **[---](https://--.com)**
 
 - 📫 How to reach me **sector3hd@gmail.com**
 
