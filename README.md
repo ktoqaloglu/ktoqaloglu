@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at **[---](https://--.com)**
+- 👨‍💻 My blog at **[Kodlayiruk](http://kodlayiruk.com/)**
 
 - 📫 How to reach me **kamil.topaloglu@protonmail.com**
 
