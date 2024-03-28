@@ -12,7 +12,7 @@
 
 - 👨‍💻 My blog at **[Kodlayiruk](http://kodlayiruk.com/)**
 
-- 📫 How to reach me **kamil.topaloglu@protonmail.com**
+- 📫 How to reach me **topaloglu.kamil@hotmail.ocom**
 
 ### Languages 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
