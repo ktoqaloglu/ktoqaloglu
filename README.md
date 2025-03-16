@@ -6,10 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[This Project](https://github.com/ktoqaloglu/React-ecommerce-antd)**
-
-- 🌱 I’m currently learning **Node.js**
-
 - 👨‍💻 My blog at **[Kodlayiruk](http://kodlayiruk.com/)**
 
 - 📫 How to reach me **topaloglu.kamil@hotmail.ocom**
