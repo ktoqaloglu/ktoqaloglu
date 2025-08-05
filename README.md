@@ -3,12 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kamil</h1>
 <h4 align="center">Frontend Developer.</h3>
 
-
-## 🙋‍♂️ About Me
-
-- 👨‍💻 My blog at **[Kodlayiruk](http://kodlayiruk.com/)**
-
-- 📫 How to reach me **topaloglu.kamil@hotmail.ocom**
+- 📫 How to reach me **topaloglu.kamil@hotmail.com**
 
 ### Languages 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
